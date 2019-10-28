@@ -1,4 +1,4 @@
-# my_rocketseat_activities
+# Challenge one
 Implementation of challenge one, using Node JS. 
 
 Challenge description here:
