@@ -1,0 +1,17 @@
+{
+  "name": "bootcamp_desafio_1",
+  "version": "1.0.0",
+  "description": "bootcamp rocketseat implementação desafio 1.",
+  "main": "index.js",
+  "author": "Augusto César Görgen",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
